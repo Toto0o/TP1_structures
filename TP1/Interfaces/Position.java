@@ -1,4 +1,4 @@
-import java.lang.IllegalStateException;
+package Interfaces;
 
 /**
  * Position is an interface for the Position ADT

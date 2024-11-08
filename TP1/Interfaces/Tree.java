@@ -1,7 +1,5 @@
 package Interfaces;
 import java.util.Iterator;
-import java.lang.Iterable;
-import java.lang.IllegalArgumentException;
 
 /**
  * Tree is an interface for the ADT Tree

@@ -9,15 +9,12 @@
  * @since       1.0
  */
 
-import java.util.Iterator;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
-
-import java.lang.Iterable;
-
 import Interfaces.*;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 public abstract class AbstractTree<E> implements Tree<E> {
     @Override

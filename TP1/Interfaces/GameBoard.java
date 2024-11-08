@@ -1,3 +1,5 @@
+package Interfaces;
+
 /**
  * interface for grid-oriented game boards storing generic type values
  *
